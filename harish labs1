@@ -1,0 +1,17 @@
+Hi my name is harish and this is my first unix programming lab 
+this is my first lab session,in this lab session we studied two modes 
+1.insert mode 2.command mode  
+today's class we studied various commands those are;
+1. x to delete the unwanted character
+2. u to undo the last command and U to undo the whole line
+3. CTRL-R to redo
+4. A to append text at the end 
+5. :wq to save and exit 
+6. :ql to trash all changes 
+7. dw to move the cursor to the beggining of the word to delete that word 
+8. 2w to move the cursor two words forward 
+9. 3e to move the cursor to the end of the third word forward 
+10. 0 to move to the start of the line
+11. d2w which delets 2 words number can be changed for deleting the number of consecutive 
+
+
