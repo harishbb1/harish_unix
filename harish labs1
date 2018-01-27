@@ -12,6 +12,6 @@ today's class we studied various commands those are;
 8. 2w to move the cursor two words forward 
 9. 3e to move the cursor to the end of the third word forward 
 10. 0 to move to the start of the line
-11. d2w which delets 2 words number can be changed for deleting the number of consecutive 
-
+11. d2w which delets 2 words number can be changed for deleting the number of consecutive words like d3w
+12.dd to deletethe line and 2dd to delete to line number can be changed for deleting the number of consecutive word
 
